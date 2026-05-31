@@ -681,7 +681,7 @@ $developer_website = "";
                 </div>
 
                 <div>
-                    <h4 class="text-white font-serif text-lg mb-4">Connect</h4>
+                    <h4 class="text-white font-serif text-lg mb-4">Connect with Us</h4>
                     <ul class="space-y-2 text-sm text-brand-muted">
                         <li><a href="#" class="hover:text-brand-gold transition"><i class="fab fa-instagram mr-2"></i> Instagram</a></li>
                         <li><a href="#" class="hover:text-brand-gold transition"><i class="fab fa-facebook-f mr-2"></i> Facebook</a></li>
